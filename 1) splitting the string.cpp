@@ -29,7 +29,7 @@ print all splitted string on a new line
 
 
 
-
+example
 Input
 
 i have cats,dogs,kitten
